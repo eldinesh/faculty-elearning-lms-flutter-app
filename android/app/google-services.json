@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "643270209299",
+    "project_id": "faculty-lms",
+    "storage_bucket": "faculty-lms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643270209299:android:f86df524bee9e9ea8474e6",
+        "android_client_info": {
+          "package_name": "com.spagreen.faculty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643270209299-luqpvn9n3iapk7v9mg2je93pdhbg1qe9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spagreen.faculty",
+            "certificate_hash": "986cc6bf94f77435eeeb2d85bce484a48339547b"
+          }
+        },
+        {
+          "client_id": "643270209299-6tuas2fro4euh6la55dn7bhv1vcv4aa9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmVszzsmym0u4ujrwU4eL0s2ZIkqNcoeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643270209299-6tuas2fro4euh6la55dn7bhv1vcv4aa9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "643270209299-1dkp7dt584qqr9ut0ticgdnrb3514ico.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spagreen.lms.user.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643270209299:android:eb759b3bf99d16a18474e6",
+        "android_client_info": {
+          "package_name": "com.spagreen.lms_user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643270209299-efgr5o9ifeujbj69erv7pl9g5spadir6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spagreen.lms_user_app",
+            "certificate_hash": "86ddfe14387b9036a2ae002aa8c2bf1b2c8bee30"
+          }
+        },
+        {
+          "client_id": "643270209299-jii1r616ccq819mb510pccm58k2s7gva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spagreen.lms_user_app",
+            "certificate_hash": "a33ab1e5211c7ab23f1e5ce9397d6319cbdfdb38"
+          }
+        },
+        {
+          "client_id": "643270209299-nrq6knudkcv4gud3b746rqv09vp3sfsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spagreen.lms_user_app",
+            "certificate_hash": "d2d43c0ea197701ca54f60b0fe790fef49c8cc49"
+          }
+        },
+        {
+          "client_id": "643270209299-p8fko9j56t52b9dgvqs861arjtog2h12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spagreen.lms_user_app",
+            "certificate_hash": "986cc6bf94f77435eeeb2d85bce484a48339547b"
+          }
+        },
+        {
+          "client_id": "643270209299-6tuas2fro4euh6la55dn7bhv1vcv4aa9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmVszzsmym0u4ujrwU4eL0s2ZIkqNcoeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643270209299-6tuas2fro4euh6la55dn7bhv1vcv4aa9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "643270209299-1dkp7dt584qqr9ut0ticgdnrb3514ico.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spagreen.lms.user.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
